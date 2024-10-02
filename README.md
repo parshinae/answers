@@ -1,2 +1,2 @@
 # Description
-pass
+The program has a graphical interface.
