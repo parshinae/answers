@@ -2,7 +2,7 @@
 The program has a graphical interface.
 # Installation
 1. Clone the repository
-`git clone https://github.com/parshinae/answers.git`
+```git clone https://github.com/parshinae/answers.git```
 2. Install dependencies
    `pip install -r requirements.txt`
 3. Start python script
