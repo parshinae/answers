@@ -6,13 +6,13 @@ The program has a graphical interface.
 git clone https://github.com/parshinae/answers.git
 ```
 3. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 5. Start python script
-   ```python
-   python main.py
-   ```
+```python
+python main.py
+```
 # Main view
 ✅ Start program
 
