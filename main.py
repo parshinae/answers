@@ -71,7 +71,7 @@ def read_files():
                     fil = str(files[path])
                     fil_out = re.findall(r'^\d{5}', fil)
                     print(fil_out)
-                    answer_list.append(fil_out)
+                    answer_list._append(fil_out)
                     file.close()
 
                     data_f = data_f.append([answer_list])
